@@ -2,9 +2,7 @@
 
 I'm Saad, an AI Engineer based in London building production LLM and agentic systems.
 
-Currently at **Brdge**, where I design and deploy AI agents, RAG pipelines, and LLM-powered tools for clients across domains like healthcare, legal, and ecommerce — taking things from initial scoping through to production.
-
-**MSc Data Science (Distinction)** from the University of Sheffield. Dissertation on multimodal deep learning for medical image classification (96% accuracy).
+I design and deploy AI agents, RAG pipelines, and LLM-powered tools across domains like healthcare, legal, and ecommerce — taking things from initial scoping through to production.
 
 ---
 
